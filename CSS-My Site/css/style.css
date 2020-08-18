@@ -1,0 +1,150 @@
+a { color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    text-decoration: none;  
+    font-weight: bold;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+body {
+    color: #40514e;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+    
+}
+
+h1 { color: #66BFBF ;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    font-weight: normal;
+    margin: 20px auto 0 auto;
+    
+}
+
+h2 { color: #66BFBF ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.50rem;
+    font-weight: normal;
+    margin-top: 20px;
+}
+ h3{ color: #11999E ;
+        font-family: 'Montserrat', sans-serif;
+} 
+
+
+hr {
+    border: dotted 5px;
+    border-bottom-style: none;
+    color: #dde5e7;
+    margin: 100px auto;
+    width: 5%;
+}
+.btn {
+   	background-color: #66bfbf;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+    font-weight:lighter;
+	padding:13px 32px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #11999e 5%, #599bb3 100%);
+	background-color:#11999e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+/******cloud-images******/
+.top-cloud {
+    position: absolute; 
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+.contact-me 
+{
+    width: 30%;
+    margin: 50px auto;
+}
+/******containers*******/
+
+.top-container {
+    background-color: #e3f6f6; 
+    padding-top: 100px;
+ }
+.middle-container {    
+    padding: 50px 0;
+
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+ 
+}
+
+
+.copyright {
+    color: #EAF6F6;
+    font-size: small;
+}
+
+
+
+
+.paint-brush {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+
+}
+p {
+    line-height: 2;
+}
+
+.profile{
+    width: 30%;
+    margin: 50px auto;
+}
+
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+   
+    
+}
+
+
+
+.web {  
+
+    display: block;
+    width: 100-x;
+
+}
+
+.webpage {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+   
+
+}
+
+
